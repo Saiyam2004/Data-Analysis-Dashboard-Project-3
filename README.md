@@ -1,2 +1,2 @@
-# Data-Analysis-Dashboard-Project-3
-I made a Dashboard Based on Coffee Shop Sales
+# Coffee-Shop-Sales-Data-Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
