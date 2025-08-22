@@ -14,4 +14,4 @@ You are recently become a franchise owner at Maven Roasters, a coffee shop chain
 - Which products are the best-selling in terms of quantity and revenue?
 - How do sales vary by product category and type?
 
-- Dashboard Interaction <a href="">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Saiyam2004/Data-Analysis-Dashboard-Project-3/blob/main/Coffee%20Shop%20Sales.png">View Dashboard</a>
