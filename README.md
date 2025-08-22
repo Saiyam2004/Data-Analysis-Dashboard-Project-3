@@ -5,3 +5,13 @@ You are recently become a franchise owner at Maven Roasters, a coffee shop chain
 ## Dataset used
 - <a href="https://github.com/Saiyam2004/Data-Analysis-Dashboard-Project-3/blob/main/Coffee%20Shop%20Sales.xlsx">Dataset</a>
 
+## Questions (KPIs)
+- How do sales vary by vary of the week and hour of the day ?
+- Are there any peak times for sales activity?
+- What is the total sales revenue for each month?
+- How do sales vary across different store locations?
+- What is the average price/order per person
+- Which products are the best-selling in terms of quantity and revenue?
+- How do sales vary by product category and type?
+
+- Dashboard Interaction <a href="">View Dashboard</a>
