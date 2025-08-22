@@ -15,3 +15,13 @@ You are recently become a franchise owner at Maven Roasters, a coffee shop chain
 - How do sales vary by product category and type?
 
 - Dashboard Interaction <a href="https://github.com/Saiyam2004/Data-Analysis-Dashboard-Project-3/blob/main/Coffee%20Shop%20Sales.png">View Dashboard</a>
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+<img width="1861" height="879" alt="Coffee Shop Sales" src="https://github.com/user-attachments/assets/78996d69-23cd-4456-8544-a57ec9d9f1db" />
+
