@@ -25,3 +25,6 @@ You are recently become a franchise owner at Maven Roasters, a coffee shop chain
 ## Dashboard
 <img width="1861" height="879" alt="Coffee Shop Sales" src="https://github.com/user-attachments/assets/78996d69-23cd-4456-8544-a57ec9d9f1db" />
 
+## Project Insight
+
+
