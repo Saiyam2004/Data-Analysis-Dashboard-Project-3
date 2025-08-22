@@ -37,6 +37,7 @@ You are recently become a franchise owner at Maven Roasters, a coffee shop chain
 - Customers prefer regular or large sizes over small.
 
 ## Final Conclusion:
+The coffee shop sales analysis highlights that the business experiences its strongest performance during the morning hours, particularly between 7 AM and 10 AM, reflecting high demand from customers starting their day. Sales remain consistent across all days of the week, suggesting a steady customer base without significant weekday or weekend variation. Among store locations, all three perform almost equally well, with Hell’s Kitchen slightly leading in total sales. On average, each customer spends around $5 per visit and typically orders 1–2 items. Coffee is the dominant product category, contributing nearly 40% of total sales, followed by tea and bakery items. In terms of individual products, Barista Espresso, Brewed Chai Tea, and Hot Chocolate are the top revenue drivers. Order sizes are most commonly regular or large, while small sizes are least preferred. Overall, the business demonstrates strong and balanced sales across locations and days, with peak revenue concentrated in morning hours and a clear reliance on coffee and tea products as its main growth drivers.
 
 
 
